@@ -32,15 +32,15 @@
 - 🌱 I’m currently learning better approaches to takle and solve problems
 - 👯 I’m looking to collaborate on anything interesting.
 - 🤔 I’m looking for help with reaching out to right people with crazy minds :collision:.
-- 💬 Ask me about [Java], [Flutter], [Normal workarounds]
-- 📫 How to reach me: [Facebook - pranavkapoorr](https://facebook.com/pranavkapoorr), [Instagram - @thepranavkapoorr](https://instagram.com/thepranavkapoorr), [Twitter - @pranavkapoorr](https://twitter.com/pranavkapoorr)
+- 💬 Ask me about Java, Flutter, Normal workarounds
+- 📫 How to reach me: [Facebook - pranavkapoorr](https://facebook.com/thepranavkapoorr), [Instagram - @thepranavkapoorr](https://instagram.com/thepranavkapoorr), [Twitter - @pranavkapoorr](https://twitter.com/pranavkapoorr)
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: Developer :computer: by Profession and Singer :microphone: by Passion.
 
 <br/>
 
 [![Twitter: pranavkapoorr](https://img.shields.io/twitter/follow/pranavkapoorr?style=social)](https://twitter.com/pranavkapoorr)
-[![Linkedin: pranavkapoorr](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranavkapoorr/)](https://www.linkedin.com/in/pranavkapoorr/)
+[![Linkedin: pranavkapoorr](https://img.shields.io/badge/-pranavkapoorr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranavkapoorr/)](https://www.linkedin.com/in/pranavkapoorr/)
 [![GitHub pranavkapoorr](https://img.shields.io/github/followers/pranavkapoorr?label=follow&style=social)](https://github.com/pranavkapoorr)
 [![website](https://img.shields.io/badge/Profile-pranavkapoorr-2648ff?style=flat-square&logo=google-chrome)](https://pranavkapoorr.github.io/)
 
